@@ -13,13 +13,13 @@ Welcome(*^▽^*) I am a second-year postgraduate student in the filed of psychom
 
 Education
 ======
-<i class="fas fa-fw fa-graduation-cap"></i>  **PhD in Psychometric, 2026(expected)**      
+<i class="fas fa-fw fa-graduation-cap"></i>  **[PhD in Psychometric, 2026(expected)](https://web.edu.hku.hk/unit/human-communication-development-and-information-sciences)**      
 The University of Hong Kong
 
-<i class="fas fa-fw fa-graduation-cap"></i> **[Master of Data Science](https://www.scifac.hku.hk/prospective/tpg/MDASC), 2022**      
+<i class="fas fa-fw fa-graduation-cap"></i> **[Master of Data Science, 2022](https://www.scifac.hku.hk/prospective/tpg/MDASC)**      
 The University of Hong Kong
 
-<i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computing Science, 2020**     
+<i class="fas fa-fw fa-graduation-cap"></i> **[Bachelor in Information and Computing Science, 2020](https://www.neu.edu.cn/index.htm)**     
 Northeastern University
 
 
