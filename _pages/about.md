@@ -16,7 +16,7 @@ Education
 <i class="fas fa-fw fa-graduation-cap"></i>  **PhD in Psychometric, 2026(expected)**      
 The University of Hong Kong
 
-<i class="fas fa-fw fa-graduation-cap"></i> **Master of Data Science, 2022**      
+<i class="fas fa-fw fa-graduation-cap"></i> **[Master of Data Science](https://www.scifac.hku.hk/prospective/tpg/MDASC), 2022**      
 The University of Hong Kong
 
 <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computing Science, 2020**     
