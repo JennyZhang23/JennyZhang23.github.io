@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "Accommodating and extending various models for special effects within the generalized partially confirmatory factor analysis framework"
 collection: publications
 permalink: /publication/2019-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
+date: 2023-10-01
+venue: 'ncme'
+poster: '/files/NCME2023poster.pdf'
 link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+citation: 'Yifan Zhang & Jinsong Chen (2023). Accommodating and extending various models for special effects within the generalized partially confirmatory factor analysis framework. Manuscript submitted for publication.'
 ---
