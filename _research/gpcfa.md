@@ -17,4 +17,4 @@ submitted for publication.
 
 > abstract...
 
-[Presentation](/files/NCME2023-SpecialEffect.mp4){: .btn--research} [Poster](/files/html/posts/NCME_SE_pre.html){: .btn--research}
+[Presentation](/files/html/posts/NCME_SE_pre.html){: .btn--research} [Poster](files/pdf/research/NCME2023poster.pdf){: .btn--research}
