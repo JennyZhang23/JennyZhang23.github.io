@@ -20,5 +20,5 @@ The University of Hong Kong
 <i class="fas fa-fw fa-graduation-cap"></i> **[Master of Data Science, 2022](https://www.scifac.hku.hk/prospective/tpg/MDASC)**      
 The University of Hong Kong
 
-<i class="fas fa-fw fa-graduation-cap"></i> **[Bachelor in Information and Computing Science, 2020](https://www.neu.edu.cn/index.htm)**     
+<i class="fas fa-fw fa-graduation-cap"></i> **[Bachelor in Information and Computation Science, 2020](https://www.neu.edu.cn/index.htm)**     
 Northeastern University
