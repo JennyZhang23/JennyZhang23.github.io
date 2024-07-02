@@ -1,6 +1,6 @@
 ---
 title: "Improving recommender system with the partially confirmatory approach and psychological factors"
-permalink: /research/gpcfa
+permalink: /research/recommendersystem
 collection: research
 ---
 
