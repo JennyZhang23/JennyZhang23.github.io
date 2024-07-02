@@ -1,21 +1,15 @@
 ---
-title: "Recommender System"
-layout: single-portfolio
-excerpt: "<img src='/images/research/recommender_system.png' alt=''>"
+title: "Improving recommender system with the partially confirmatory approach and psychological factors"
+permalink: /research/gpcfa
 collection: research
-order_number: 30
-header: 
-  og_image: "research/recommender_system.png"
 ---
 
-In this set of projects,
+> Yifan Zhang & Jinsong Chen (2023, March). Improving recommender system with the partially confirmatory approach and psychological factors. Coordinated paper presented at the National Council on Measurement in Education, Virtual, Chicago, IL.
 
-## Conference Paper
+<p style="font-size: 12pt; width: 100%; text-align: left;">This paper investigates if we can improve recommender system with the partially confirmatory approach. The proposed
+approach comparable to conventional machine learning methods for recommendation. When incorporating partial
+knowledge, the approach can provide interpretation to the recommendation, thus help make the black box of the
+learning process transparent.</p> 
 
-Yifan Zhang & Jinsong Chen (2023, March). Improving recommender system with the partially
-confirmatory approach and psychological factors. Coordinated paper presented at the National
-Council on Measurement in Education, Virtual, Chicago, IL.
 
-> abstract
-
-[Article](){: .btn--research} [Presentation](/files/html/posts/NCME_RS_pre.html){: .btn--research}
+[Article](/files/pdf/research/NCMEflier.pdf){: .btn--research} [Presentation](/files/html/posts/NCME_RS_pre.html){: .btn--research}
