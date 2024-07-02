@@ -12,4 +12,4 @@ knowledge, the approach can provide interpretation to the recommendation, thus h
 learning process transparent.</p> 
 
 
-[Article](/files/pdf/research/NCMEflier.pdf){: .btn--research} [Presentation](/files/html/posts/NCME_RS_pre.html){: .btn--research}
+[Flier](/files/pdf/research/NCMEflier.pdf){: .btn--research} [Presentation](/files/html/posts/NCME_RS_pre.html){: .btn--research}
