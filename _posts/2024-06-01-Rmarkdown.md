@@ -1,18 +1,15 @@
 ---
 title: Tutorial of Rmarkdown and SEM graph
-output:
-  md_document:
-    variant: gfm+footnotes
-    preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2024-01-01
-excerpt_separator: <!--more-->
-toc: false
+date: 2024-06-01
+permalink: /posts/2024-06-01-Rmarkdown
 tags:
-  - timer
-  - visualization
+  - Rmarkdown
+  - R
 ---
+
+Tutorial of Rmarkdown 
+
+
 ## Inline formatting
 
 - _italic_ :  `_text_` or `*text*`
