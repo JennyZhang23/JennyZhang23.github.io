@@ -10,7 +10,7 @@ tags:
 Self use
 
 
-## Inline formatting
+# Inline formatting
 
 - _italic_ :  `_italic_` or `*italic*`
 - **Bold** : `**Bold**`
@@ -19,9 +19,11 @@ Self use
 - syntax for images: `![alt text or image title](path/to/image){width='30px'}`. 
 - Footnotes : `^[This is a footnote.]`.
 - Block type:
+
     block type
 
-## Block-level elements
+# Block-level elements
+
 
 # First-level header
 ## Second-level header
@@ -61,7 +63,7 @@ Self use
 
 
 
-## Math expressions
+# Math expressions
 
 - Greek Letters: $$1.\alpha A;2.\nu N;3.\beta B;4.\xi\Xi;5.\gamma \Gamma;6.o O;7.\delta \Delta;8.\pi \Pi;9.\epsilon \varepsilon E;10.\rho\varrho P;\\
 11.\zeta Z \sigma \,\!;12.\sigma \Sigma;13.\eta H;14.\tau T;15.\theta \vartheta \Theta;16.\upsilon \Upsilon;17.\iota I;18.\phi \varphi \Phi;19.\kappa K;20.\chi X;\\
