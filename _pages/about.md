@@ -22,6 +22,3 @@ The University of Hong Kong
 
 <i class="fas fa-fw fa-graduation-cap"></i> **[Bachelor in Information and Computation Science, 2020](http://cos.neu.edu.cn/math/8908/list.htm)**     
 Northeastern University
-
-
-<a href="https://clustrmaps.com/site/1c1nc"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=75kfqT_IrwvhDGSIY_2hX1jG04eKY_brt7g6wPk8LIY&cl=ffffff" /></a>
