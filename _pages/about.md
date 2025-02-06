@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a forth-year postgraduate student in the filed of psychometrics. I have an academic background in mathematics, statistics and computer science. My research interests lie at the intersection of behavioral research, statistics and machine learning. Specifically, my current studies investigate the factor analysis with Bayesian regularization. 
+I am a Ph.D. Candidate in the filed of psychometrics. I have an academic background in mathematics, statistics and computer science. My research interests lie at the intersection of behavioral research, statistics and machine learning. Specifically, my current studies investigate the factor analysis with Bayesian regularization. 
 
 
 Education
