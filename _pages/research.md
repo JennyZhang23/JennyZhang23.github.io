@@ -88,7 +88,7 @@ author_profile: yes
 <a href="https://yifanzhang.top/research/gpcfa"><img src="/images/research/general_accommodation.png" class="thumbnail" style="width: 90%;"></a></p></div>
 
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/recommendersystem">Recommender System</a><br><i style="font-size: 10pt;"> Apply factor analysis to recommendation.</i>. <a href="https://yifanzhang.top/research/recommendersystem"><img src="/images/research/recommender_system.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/recommendersystem">Recommender System</a><br><i style="font-size: 10pt;"> Apply factor analysis to recommendation.</i> <a href="https://yifanzhang.top/research/recommendersystem"><img src="/images/research/recommender_system.png" class="thumbnail" style="width: 90%;"></a></p></div>
 </div>
 
 
