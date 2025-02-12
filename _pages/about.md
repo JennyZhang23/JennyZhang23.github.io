@@ -16,11 +16,11 @@ redirect_from:
 
 Education
 ======
-<i class="fas fa-fw fa-graduation-cap"></i>  **[PhD in Psychometric, 2026(expected)](https://spsweb.edu.hku.hk/profile.php?sid=101483)**      
-The University of Hong Kong, Faculty of Education
+<i class="fas fa-fw fa-graduation-cap"></i>  **PhD in Psychometric, 2026(expected)**      
+The University of Hong Kong
 
-<i class="fas fa-fw fa-graduation-cap"></i> **[Master of Data Science, 2022](https://mdasc.cds.hku.hk)**      
+<i class="fas fa-fw fa-graduation-cap"></i> **Master of Data Science, 2022**      
 The University of Hong Kong, Department of Statistics & Department of Computer Science
 
-<i class="fas fa-fw fa-graduation-cap"></i> **[Bachelor in Information and Computation Science, 2020](http://cos.neu.edu.cn/math/8908/list.htm)**     
-Northeastern University, Department of Mathematics
+<i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computation Science, 2020** 
+Northeastern University (CN)

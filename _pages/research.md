@@ -79,16 +79,16 @@ author_profile: yes
 
 
 
-<h2>Academic Working Papers</h2>
+<h2>Research Projects</h2>
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/gpcfa">Generalized Partially Confirmatory Factor Analysis Framework.</a> <br>
-<i style="font-size: 10pt;"> Bayesian Regularization, Structural Equation Modelling</i>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/gpcfa"> BAYESIAN REGULARIZED FACTOR ANALYSIS</a> <br>
+<i style="font-size: 9pt;"> Exploration of bayesian regularization in SEM.</i>
 <a href="https://yifanzhang.top/research/gpcfa"><img src="/images/research/general_accommodation.png" class="thumbnail" style="width: 90%;"></a></p></div>
 
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/recommendersystem">Recommender System</a><br><i style="font-size: 10pt;"> Machine Learning, Factor Analysis</i>. <a href="https://yifanzhang.top/research/recommendersystem"><img src="/images/research/recommender_system.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/recommendersystem">RECOMMENDER SYSTEM</a><br><i style="font-size: 9pt;"> Apply factor analysis to recommendation.</i>. <a href="https://yifanzhang.top/research/recommendersystem"><img src="/images/research/recommender_system.png" class="thumbnail" style="width: 90%;"></a></p></div>
 </div>
 
 
