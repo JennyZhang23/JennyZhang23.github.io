@@ -20,7 +20,7 @@ Education
 The University of Hong Kong
 
 <i class="fas fa-fw fa-graduation-cap"></i> **Master of Data Science, 2022**      
-The University of Hong Kong, Department of Statistics & Department of Computer Science
+The University of Hong Kong
 
-<i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computation Science, 2020** 
+<i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computation Science, 2020**     
 Northeastern University (CN)
