@@ -1,5 +1,5 @@
 ---
-title: "Generalized Partially Confirmatory Factor Analysis"
+title: " Bayesian SEM"
 permalink: /research/gpcfa
 collection: research
 ---
