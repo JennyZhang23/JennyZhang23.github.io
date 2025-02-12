@@ -2,10 +2,12 @@
 title: Notes of Rmarkdown
 date: 2024-06-01
 permalink: /posts/2024-06-01-Rmarkdown
+excerpt_separator: <!--more-->
 tags:
   - Rmarkdown
   - R
 ---
+<!--more-->
 
 Self use
 
