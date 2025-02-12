@@ -83,7 +83,7 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/gpcfa">Generalized Partially Confirmatory Factor Analysis Framework.</a> 
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/gpcfa">Generalized Partially Confirmatory Factor Analysis Framework.</a> <br>
 <i> Bayesian Regularization, Structural Equation Modelling</i>
 <a href="https://yifanzhang.top/research/gpcfa"><img src="/images/research/general_accommodation.png" class="thumbnail" style="width: 90%;"></a></p></div>
 

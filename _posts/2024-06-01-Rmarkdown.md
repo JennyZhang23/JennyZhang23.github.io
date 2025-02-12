@@ -9,9 +9,6 @@ tags:
 ---
 <!--more-->
 
-Self use
-
-
 # Inline formatting
 
 - _italic_ :  `_italic_` or `*italic*`
