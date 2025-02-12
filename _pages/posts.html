@@ -15,17 +15,6 @@ header:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  <div class="archive__item">
-    <h2 class="post-title">
-      {% if post.link %}
-        <a href="{{ post.link }}" target="_blank">{{ post.title }}</a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
-    </h2>
-    <p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
-  </div>
-
   {% include archive-single.html %}
 {% endfor %}
 
