@@ -83,11 +83,10 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/gpcfa">Accommodating and Extending Various Models for Special Effects Within the Generalized Partially Confirmatory Factor Analysis Framework.</a> <i> Applied Psychological Measurement, 48(4-5), 208-229.</i><a href="https://yifanzhang.top/research/gpcfa"><img src="/images/research/general_accommodation.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/gpcfa">Generalized Partially Confirmatory Factor Analysis Framework.</a> <i> Bayesian Regularization</i><a href="https://yifanzhang.top/research/gpcfa"><img src="/images/research/general_accommodation.png" class="thumbnail" style="width: 90%;"></a></p></div>
 
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/recommendersystem">Improving recommender system with the partially
-confirmatory approach and psychological factors.</a><i> Presented at 2023 National Council on Measurement in Education, Virtual, Chicago, IL</i>. <a href="https://yifanzhang.top/research/recommendersystem"><img src="/images/research/recommender_system.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://yifanzhang.top/research/recommendersystem">Recommender System</a><i> Machine Learning</i>. <a href="https://yifanzhang.top/research/recommendersystem"><img src="/images/research/recommender_system.png" class="thumbnail" style="width: 90%;"></a></p></div>
 </div>
 
 
