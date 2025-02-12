@@ -23,4 +23,4 @@ The University of Hong Kong
 The University of Hong Kong
 
 <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computation Science, 2020**     
-Northeastern University (CN)
+Northeastern University
