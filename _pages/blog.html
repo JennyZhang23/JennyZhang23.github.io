@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 {% capture written_category %}'None'{% endcapture %}
-{% for post in site.blog %}
+{% for post in site.posts %}
   {% assign categories = post.categories | join: ', ' %}
   {% if categories != written_category %}
     <h2 id="{{ categories | slugify }}" class="archive__subtitle">{{ categories }}</h2>
