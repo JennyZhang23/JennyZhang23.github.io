@@ -13,10 +13,7 @@ author_profile: true
     <h2 id="{{ categories | slugify }}" class="archive__subtitle">{{ categories }}</h2>
     {% capture written_category %}{{ categories }}{% endcapture %}
   {% endif %}
-  
-  <!-- Display the Post Title -->
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  
+
   <!-- Display the Intro -->
   {% if post.intro %}
     <p>{{ post.intro }}</p>

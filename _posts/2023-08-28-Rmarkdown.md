@@ -1,7 +1,7 @@
 ---
 title: Notes of Rmarkdown
 date: 2023-08-28
-permalink: /blog/2024-06-01-Rmarkdown
+permalink: /posts/2024-06-01-Rmarkdown
 excerpt_separator: <!--more-->
 tags:
   - Rmarkdown
