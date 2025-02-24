@@ -12,12 +12,6 @@ author_profile: true
   {% if categories != written_category %}
     <h2 id="{{ categories | slugify }}" class="archive__subtitle">{{ categories }}</h2>
     {% capture written_category %}{{ categories }}{% endcapture %}
-  {% endif %}
-
-  <!-- Display the Intro -->
-  {% if post.intro %}
-    <p>{{ post.intro }}</p>
-  {% endif %}
-  
+  {% endif %}  
   {% include archive-single-blog.html %}
 {% endfor %}
