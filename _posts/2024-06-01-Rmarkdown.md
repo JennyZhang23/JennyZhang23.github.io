@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 tags:
   - Rmarkdown
   - R
+categories:
+  - tools
 ---
 <!--more-->
 
