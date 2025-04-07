@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<head>
+    <style>
+        .hidden-img {
+            display: none;
+        }
+    </style>
+</head>
 
 ( ˶ˆᗜˆ˵ ) Welcome to my website! I am a Ph.D. candidate in psychometrics at the University of Hong Kong, advised by Professor [Jinsong Chen](https://web.edu.hku.hk/faculty-academics/jinsong). I have an academic background in mathematics, statistics, and computer science. My research interests blend behavioral research, statistics, and machine learning. Currently, I am focusing on exploring factor analysis through Bayesian regularization.
 
@@ -25,4 +32,4 @@ The University of Hong Kong
 <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computation Science, 2020**     
 Northeastern University
 
-<a href="https://clustrmaps.com/site/1c56q" title="ClustrMaps" class="hidden-link"><img src="//www.clustrmaps.com/map_v2.png?d=apHqN_kEgnOjtlR5T-BbkO5zdCVfh7UtuMFCFOpZTeI&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1c56q" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=apHqN_kEgnOjtlR5T-BbkO5zdCVfh7UtuMFCFOpZTeI&cl=ffffff" class="hidden-img"></a>
