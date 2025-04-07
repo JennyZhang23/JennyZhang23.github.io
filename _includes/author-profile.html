@@ -5,20 +5,6 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-
-<div class="author__urls-wrapper hidden-link">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-        {% if author.location %}
-            <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.location }}</li>
-        {% endif %}
-        {% if author.employer %}
-            <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.employer }}</li>
-        {% endif %}
-        <!-- Other existing content -->
-    </ul>
-</div>
-
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
