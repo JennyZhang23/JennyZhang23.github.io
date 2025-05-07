@@ -2,6 +2,7 @@
 title: "Recommender System"
 permalink: /research/recommendersystem
 collection: research
+date: 2023-03-31
 ---
 
 Yifan Zhang & Jinsong Chen (2023, March). Improving recommender system with the partially confirmatory approach and psychological factors. <i>Coordinated paper presented at the National Council on Measurement in Education, Virtual, Chicago, IL.</i> [Flier](/files/pdf/research/NCMEflier.pdf){: .btn--research} [Presentation](/files/html/posts/NCME_RS_pre.html){: .btn--research}
