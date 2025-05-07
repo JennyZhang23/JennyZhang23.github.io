@@ -2,6 +2,7 @@
 title: " Bayesian SEM"
 permalink: /research/gpcfa
 collection: research
+date: 2023-07-07
 ---
 
 <style>
