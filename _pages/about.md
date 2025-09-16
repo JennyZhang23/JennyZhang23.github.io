@@ -33,3 +33,5 @@ The University of Hong Kong
 Northeastern University
 
 <a href="https://clustrmaps.com/site/1c56q" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=apHqN_kEgnOjtlR5T-BbkO5zdCVfh7UtuMFCFOpZTeI&cl=ffffff" class="hidden-img"></a>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=91e5b2&w=300&t=n&d=apHqN_kEgnOjtlR5T-BbkO5zdCVfh7UtuMFCFOpZTeI&co=e5e5d5&cmo=4bc4b5&cmn=68baab&ct=380f0f"></script>
