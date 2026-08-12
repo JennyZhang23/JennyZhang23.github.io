@@ -32,6 +32,4 @@ The University of Hong Kong
 <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor in Information and Computation Science, 2020**     
 Northeastern University
 
-<a href="https://clustrmaps.com/site/1c56q" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=apHqN_kEgnOjtlR5T-BbkO5zdCVfh7UtuMFCFOpZTeI&cl=ffffff" class="hidden-img"></a>
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7UfieslHCgwN4jfPl_ftCZwnLe2STgL_sxEwWLspgrM&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=4f84c8&w=200&t=n&d=7UfieslHCgwN4jfPl_ftCZwnLe2STgL_sxEwWLspgrM&co=ffffff&cmo=45378d&cmn=74b874&ct=763636"></script>
